@@ -1,0 +1,5 @@
+type Data @model
+  @auth(rules: [{ allow: owner }]) {
+  id: ID!
+  data: String!
+}

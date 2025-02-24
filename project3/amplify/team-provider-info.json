@@ -1,0 +1,31 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifybc394bc0dffb4-staging-170624-authRole",
+      "UnauthRoleArn": "arn:aws:iam::635801908309:role/amplify-amplifybc394bc0dffb4-staging-170624-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::635801908309:role/amplify-amplifybc394bc0dffb4-staging-170624-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifybc394bc0dffb4-staging-170624-deployment",
+      "UnauthRoleName": "amplify-amplifybc394bc0dffb4-staging-170624-unauthRole",
+      "StackName": "amplify-amplifybc394bc0dffb4-staging-170624",
+      "StackId": "arn:aws:cloudformation:us-east-2:635801908309:stack/amplify-amplifybc394bc0dffb4-staging-170624/5dc877c0-4636-11ec-8629-06a9ca5bc92c",
+      "AmplifyAppId": "dcqvcph4424vz",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-amplifybc394bc0dffb4-staging-170624-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "function": {
+        "budgit73e4ee64": {
+          "deploymentBucketName": "amplify-amplifybc394bc0dffb4-staging-170624-deployment",
+          "s3Key": "amplify-builds/budgit73e4ee64-756b5a703676744d6269-build.zip"
+        },
+        "BudgitPreSignup": {
+          "deploymentBucketName": "amplify-amplifybc394bc0dffb4-staging-170624-deployment",
+          "s3Key": "amplify-builds/BudgitPreSignup-38667033593865706449-build.zip"
+        }
+      },
+      "auth": {
+        "Budgit": {}
+      }
+    }
+  }
+}
