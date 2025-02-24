@@ -1,0 +1,343 @@
+SCRUM Meeting 1 for BudgIt
+Prepared by: Jackson Engel
+Meeting Date: 11/5/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Matthew Tran
+ Ethan McKinney
+Meeting Agenda Items
+Front End Design and Implementation
+Back End Implementation
+API Connection
+Status Update Since Last Meeting
+N/A, no last meeting
+Before The Next Meeting
+Plans:
+ Start working on the front end design: like the nav bar
+Start working on the back end components, income tax calculator
+
+Task Assignments:
+Task Description
+Assigned to
+Start the design of the front end to create a prototype for next week
+Esha / Alex
+Create the income tax calculator component
+Jackson / Ethan 
+Learn React/Node JS
+Alex / Matthew / Ethan
+
+Minutes from Previous Meeting
+Because there was not a previous meeting, there is nothing to summarize discussion.
+
+
+
+SCRUM Meeting 2 for BudgIt
+Prepared by: Jackson Engel
+Meeting Date: 11/6/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Matthew Tran
+ Ethan McKinney
+Meeting Agenda Items
+Update status on the front-end
+Update status on the income tax calculator
+Discuss putting login system + database on hold
+Status Update Since Last Meeting
+Accomplishments:
+Created the navbar, information on pages did not appear
+Switched from fetch (JS api call function) to axios since it is easier to make calls
+Had trouble with getting the fetch to work
+
+Tasks Completed:
+Task Description
+Assigned to
+Completed? (yes/no)
+Created the navbar
+Esha
+yes
+Creating Pages 
+Esha 
+yes
+Adding Information to pages 
+Esha / Alex
+no
+Create the income tax calculator component
+Jackson
+no
+Learn React/Node JS
+Alex / Mathew / Ethan
+yes
+
+Before The Next Meeting
+Plans:
+ Completing page routing and information properly 
+Completing computation for income tax
+
+Task Assignments:
+Task Description
+Assigned to
+Income Tax Calculator
+Jackson 
+Adding Information to pages 
+Esha / Alex
+Brainstorming for upcoming sprints 
+Ethan / Matthew
+
+Minutes from Previous Meeting
+Through a Zoom meeting we met briefly for 10 minutes. We started off by discussing how much the team members who were new to react had learned throughout the week and if they believed they would be able to help but the finishing touches on the prototype. They said they’d be ready and we moved on to the status of our two main components. For the front end, there were some difficulties setting up the navbar but things had been progressing smoothly. On the backend we had been able to interact with the api but had yet to put it into a component. 
+
+
+SCRUM Meeting 3 for BudgIt
+Prepared by: Jackson Engel
+Meeting Date: 11/7/2021
+Meeting Attendees
+Jackson Engel
+Esha Adhawade
+Alex Torres
+Matthew Tran
+Ethan McKinney
+
+Meeting Agenda Items
+Finishing up first prototype 
+Combining Income tax calculator with front end
+Status Update Since Last Meeting
+Accomplishments:
+The navbar is able to switch between pages
+The income tax calculator works correctly
+
+Tasks Completed:
+Task Description
+Assigned to
+Completed? (yes/no)
+Income Tax calculator 
+Jackson
+yes
+Switch between pages 
+Esha
+yes
+Combining the components 
+Group
+yes
+Adding Information to pages 
+Esha / Alex 
+no
+
+Before The Next Meeting
+Plans:
+Figure out what to work on for next sprint
+
+Task Assignments:
+Task Description
+Assigned to
+Draft page information
+Alex / Matthew 
+Start on property tax calculator
+Jackson / Ethan
+Start on profile tab
+Esha
+
+Minutes from Previous Meeting
+We met for 5 minutes in a Zoom meeting, to briefly discuss the prototype progress. We still had some problems with the navbar and the pages displaying so we considered changing the version of one of our react libraries. Similarly our tax calculator was set up in theory but there were some problems with the fetch. Jackson recommended Axios instead.
+
+
+SCRUM Meeting 4 for BudgIt
+Prepared by: Jackson Engel
+Meeting Date: 11/8/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Matthew Tran
+ Ethan McKinney
+Meeting Agenda Items
+Discussing the plan for Sprint 2
+Status Update Since Last Meeting
+Accomplishments:
+Created the base frontend that we needed for Sprint 1
+We completed the income tax calculator
+Completed Sprint 1 and completed relevant tasks
+
+Tasks Completed:
+Since this is the beginning of second sprint, we do not have tasks completed as of yet.
+
+Before The Next Meeting
+Plans:
+Start drafting the page information
+Figure out how to integrate AWS
+Start on the next two calculators 
+
+Task Assignments:
+Task Description
+Assigned to
+Front-end
+Esha/Alex
+Calculators
+Jackson
+AWS integration
+Ethan / Matthew
+
+Minutes from Previous Meeting
+Through zoom, we spent 15 minutes discussing the basic plans for the next sprint. We also integrated the front end and the calculator together to have a prototype for the demo.
+
+SCRUM Meeting 5 for BudgIt
+Prepared by: Alexander Torres
+Meeting Date: 11/11/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Ethan McKinney
+ Matthew Tran
+Meeting Agenda Items
+Discussing how to collect User Studies 
+Slight Changed to make User Studies more valuable 
+Status Update Since Last Meeting
+Accomplishments:
+We set up AWS host
+We completed the income Propertry Tax Calcualtor 
+We have a draft for all Page informations
+
+Tasks Completed:
+We set up AWS host
+We completed the income Propertry Tax Calcualtor 
+
+Before The Next Meeting
+Plans:
+Get User Stories
+Complete front end
+Start working out the Budgeting application
+
+Task Assignments:
+Task Description
+Assigned to
+Front-end
+Esha/Alex
+Calculators
+Jackson
+Ethan / Matthew
+
+Minutes from Previous Meeting
+Through zoom, we spent 10 minutes discussing where we were at end of the sprint 1 and where we should go moving forward. We set out to set up a host through AWS and start working on the next calculator. We also planned to have work on the home page and start to work on a draft of all the page information. 
+
+SCRUM Meeting 6 for BudgIt
+Prepared by: Alexander Torres
+Meeting Date: 11/17/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Ethan McKinney
+ Matthew Tran
+ 
+Meeting Agenda Items
+Discussing how to collect User Studies 
+Slight Changed to make User Studies more valuable 
+Status Update Since Last Meeting
+
+Accomplishments:
+We completed the Budget Calculator 
+We have Information on all pages
+
+Tasks Completed:
+We have core functionality done
+We have an flushed out website
+
+Before The Next Meeting
+Plans:
+Front End Refinement 
+Get Database Working
+Work on Login
+
+Task Assignments:
+Task Description
+Assigned to
+Front-end
+Esha/Alex
+Calculators
+Jackson
+Database
+Ethan / Matthew
+
+Minutes from Previous Meeting
+After Class we met for 5 minutes to remind everyone to use the survey to get a few user studies. We then outlined breifly the design for the budget calculator and discussed the quality of the infomation draft. 
+
+SCRUM Meeting 7 for BudgIt
+Prepared by: Alexander Torres
+Meeting Date: 11/29/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Ethan McKinney
+ Matthew Tran
+ 
+Meeting Agenda Items
+Planning for final integration of compenets
+Dicussing how to wrap the Log In system
+Slight Changes to UI
+
+Accomplishments:
+New front end is done
+Basic Login system is done
+
+Tasks Completed:
+All tasks other that database connection are done
+
+Before The Next Meeting
+Plans:
+Integration
+Work on Login
+
+Task Assignments:
+Task Description
+Assigned to
+Front-end
+Esha/Alex
+Calculators
+Jackson
+Database
+Ethan / Matthew
+
+Minutes from Previous Meeting
+After Class we met for 10 minutes to check that our core functionality was done. We then were shown a new front end was nearly done and the Login system and database working together. From there we planned to wait for the new front end so we could integrate it with the new components.
+
+SCRUM Meeting 8 for BudgIt
+Prepared by: Alexander Torres
+Meeting Date: 12/3/2021
+Meeting Attendees
+ Jackson Engel
+ Esha Adhawade
+ Alex Torres
+ Ethan McKinney
+ Matthew Tran
+ 
+Meeting Agenda Items
+Integrate front end and all other componets 
+
+Accomplishments:
+Everything now works on new front end
+
+Tasks Completed:
+Website is complete other than stylistic changes
+
+Before The Next Meeting
+Plans:
+Try to style componenets
+
+Task Assignments:
+Task Description
+Assigned to
+Front-end
+Esha/Alex
+Calculators
+Jackson
+Database
+Ethan / Matthew
+
+Minutes from Previous Meeting
+We met through zoom for 15 minutes to discuss how to go about intgrating the front end with the compnents and database and judged that it would largely be a matter of copying compnets and configuring the json files.
+
